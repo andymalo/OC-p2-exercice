@@ -9,3 +9,5 @@ def suite():
         min = i+min
 
 suite()
+print("Suite du script 1")
+
